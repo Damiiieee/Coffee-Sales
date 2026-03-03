@@ -20,7 +20,7 @@ It includes information such as ;
 - Product performance comparison
 
 ## Dashboard Preview
-![Coffee Sales Dashboard](Coffee.png)
+![Coffee Sales Dashboard](Mocha.png)
 
 **KEY QUESTIONS TO ADDRESS**
 + Which coffee products generate the highest revenue?
@@ -30,7 +30,15 @@ It includes information such as ;
 + Which products underperform and may require strategic adjustment?
 
 ## Key Insights
-+ The top 3 products contributed X% of total revenue, indicating revenue concentration.
++ The top 3 products contributed 79% of total revenue, indicating revenue concentration.
 + Peak sales occurred between 9:00AM-10:00AM, suggesting optimal staffing periods.
-+ Weekend sales increased by X% compared to weekdays.
-+ One location consistently outperformed others by X% in total revenue.
++ One location consistently outperformed others by 34% in total revenue.
+
+## Recommendations
++ Increase inventory allocation for top-performing products.
++ Align staff scheduling with peak demand hours.
++ Introduce promotions during low-traffic periods.
++ Reassess pricing or bundling strategies for underperforming items.
+
+### Project Value
+This dashboard demonstrates how transactional sales data can be transformed into actionable insights for retail performance optimization and operational planning.
